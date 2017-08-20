@@ -1,0 +1,14 @@
+c:\users\windows10_ssd\documents\visual studio 2017\Projects\eBeleznik\eBeleznik\bin\Debug\eBeleznik.exe.config
+c:\users\windows10_ssd\documents\visual studio 2017\Projects\eBeleznik\eBeleznik\bin\Debug\eBeleznik.exe
+c:\users\windows10_ssd\documents\visual studio 2017\Projects\eBeleznik\eBeleznik\bin\Debug\eBeleznik.pdb
+c:\users\windows10_ssd\documents\visual studio 2017\Projects\eBeleznik\eBeleznik\obj\Debug\MainWindow.g.cs
+c:\users\windows10_ssd\documents\visual studio 2017\Projects\eBeleznik\eBeleznik\obj\Debug\App.g.cs
+c:\users\windows10_ssd\documents\visual studio 2017\Projects\eBeleznik\eBeleznik\obj\Debug\eBeleznik_MarkupCompile.cache
+c:\users\windows10_ssd\documents\visual studio 2017\Projects\eBeleznik\eBeleznik\obj\Debug\eBeleznik_MarkupCompile.lref
+c:\users\windows10_ssd\documents\visual studio 2017\Projects\eBeleznik\eBeleznik\obj\Debug\MainWindow.baml
+c:\users\windows10_ssd\documents\visual studio 2017\Projects\eBeleznik\eBeleznik\obj\Debug\eBeleznik.g.resources
+c:\users\windows10_ssd\documents\visual studio 2017\Projects\eBeleznik\eBeleznik\obj\Debug\eBeleznik.Properties.Resources.resources
+c:\users\windows10_ssd\documents\visual studio 2017\Projects\eBeleznik\eBeleznik\obj\Debug\eBeleznik.csproj.GenerateResource.Cache
+c:\users\windows10_ssd\documents\visual studio 2017\Projects\eBeleznik\eBeleznik\obj\Debug\eBeleznik.exe
+c:\users\windows10_ssd\documents\visual studio 2017\Projects\eBeleznik\eBeleznik\obj\Debug\eBeleznik.pdb
+c:\users\windows10_ssd\documents\visual studio 2017\Projects\eBeleznik\eBeleznik\obj\Debug\eBeleznik.csprojResolveAssemblyReference.cache
